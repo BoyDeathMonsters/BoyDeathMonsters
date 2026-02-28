@@ -1,5 +1,38 @@
-# 💫 About Me:
-# 👋 Hi, I'm Florent Bajard<br><br>🎓 Engineering Student @ ICAM Toulouse  <br>🤖 Robotics & Mechanical Systems  <br>🧠 Simulation-driven design | CFD | Thermal Analysis  <br>🚀 Project Leader – Firefighter Intervention Robot (Media Featured)<br><br>---<br><br>## 🔥 What I Do<br><br>I design and build mechanical and robotic systems focused on real-world constraints:<br>- Autonomous robotics<br>- Industrial optimization<br>- Simulation-based engineering<br>- Mechatronics & embedded systems<br>- Field-ready systems<br><br>---<br><br>## 🛠 Technical Stack<br><br>**Mechanical & Simulation**<br>- SolidWorks<br>- CFD (Flow Simulation)<br>- Thermal Analysis<br>- Mechanical Design<br>- Structural Analysis<br><br>**Robotics & Embedded**<br>- Arduino<br>- ESP32<br>- Raspberry Pi<br>- LoRa communication<br>- Sensor integration<br>
+# 👋 Hi, I'm Florent Bajard
+
+🎓 Engineering Student @ ICAM Toulouse  
+🤖 Robotics & Mechanical Systems  
+🧠 Simulation-driven design | CFD | Thermal Analysis  
+🚀 Project Leader – Firefighter Intervention Robot (Media Featured)
+
+---
+
+## 🔥 What I Do
+
+I design and build mechanical and robotic systems focused on real-world constraints:
+- Autonomous robotics
+- Industrial optimization
+- Simulation-based engineering
+- Mechatronics & embedded systems
+- Field-ready systems
+
+---
+
+## 🛠 Technical Stack
+
+**Mechanical & Simulation**
+- SolidWorks
+- CFD (Flow Simulation)
+- Thermal Analysis
+- Mechanical Design
+- Structural Analysis
+
+**Robotics & Embedded**
+- Arduino
+- ESP32
+- Raspberry Pi
+- LoRa communication
+- Sensor integration
 
 
 ## 🌐 Socials:
