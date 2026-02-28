@@ -1,40 +1,9 @@
 # 👋 Hi, I'm Florent Bajard
-
 🎓 Engineering Student @ ICAM Toulouse  
 🤖 Robotics & Mechanical Systems  
 🧠 Simulation-driven design | CFD | Thermal Analysis  
-🚀 Project Leader – Firefighter Intervention Robot (Media Featured)
-
----
-
 ## 🔥 What I Do
-
-I design and build mechanical and robotic systems focused on real-world constraints:
-- Autonomous robotics
-- Industrial optimization
-- Simulation-based engineering
-- Mechatronics & embedded systems
-- Field-ready systems
-
----
-
-## 🛠 Technical Stack
-
-**Mechanical & Simulation**
-- SolidWorks
-- CFD (Flow Simulation)
-- Thermal Analysis
-- Mechanical Design
-- Structural Analysis
-
-**Robotics & Embedded**
-- Arduino
-- ESP32
-- Raspberry Pi
-- LoRa communication
-- Sensor integration
-
-
+I design and build mechanical and robotic systems focused on real-world constraints: Autonomous robotics/ Industrial optimization/ Simulation-based engineering/ Mechatronics & embedded systems/ Field-ready systems
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/flobajard4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/florent-bajard) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:florent.bajard@2028.icam.fr) 
 
