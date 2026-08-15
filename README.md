@@ -3,12 +3,12 @@
 🤖 Robotics & Mechanical Systems  
 🧠 Simulation-driven design | CFD | Thermal Analysis  
 ## 🔥 What I Do
-I design and build mechanical and robotic systems focused on real-world constraints: Autonomous robotics/ Industrial optimization/ Simulation-based engineering/ Mechatronics & embedded systems/ Fie[...]
+I design and build mechanical and robotic systems focused on real-world constraints: Autonomous robotics/ Industrial optimization/ Simulation-based engineering/ Mechatronics & embedded systems/ Field‑ready systems
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/flobajard4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.sv[...]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/flobajard4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/florent-bajard) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:florent.bajard@2028.icam.fr) 
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge(java-%23ED8B00.svg?style=for-the-b[...]
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BoyDeathMonsters&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=BoyDeathMonsters&theme=solarized-light&hide_border=false)<br/>
@@ -37,13 +37,8 @@ This repository contains scripts that fetch your GitHub contributions calendar a
 The workflow .github/workflows/update_profile_art.yml can also be triggered manually from the Actions tab to regenerate and commit demo.svg and info-card.svg automatically.
 
 
-<!-- inline info-card.svg -->
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="200" viewBox="0 0 640 200">
-  <rect width="100%" height="100%" fill="#0b1220" rx="12" />
-  <text x="32" y="56" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">BoyDeathMonsters — Contributions</text>
-  <text x="32" y="80" fill="#9ca3af" font-family="Arial,Helvetica,sans-serif" font-size="12">Generated demo card (will be replaced when scripts run)</text>
-  <g transform="translate(32,96)">
-    <rect width="576" height="72" fill="#0f172a" rx="6" />
-  </g>
-</svg>
+<!-- Inline preview images: the SVGs are added to the repository. -->
+
+![Info card](./info-card.svg)
+
+![Heatmap demo (generated)](./demo.svg)
