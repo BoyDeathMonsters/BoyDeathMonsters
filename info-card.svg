@@ -1,0 +1,5 @@
+<!-- info-card.svg removed on user request -->
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="200" viewBox="0 0 640 200">
+  <rect width="100%" height="100%" fill="#eee" />
+  <text x="16" y="24" fill="#333" font-family="Arial,Helvetica,sans-serif" font-size="13">info-card.svg removed from main — see backup branch</text>
+</svg>

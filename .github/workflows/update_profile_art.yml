@@ -1,5 +1,4 @@
 # Workflow removed
 
-# The workflow 'update_profile_art.yml' was added on 2026-08-15 and has been removed from main.
-# See the backup branch if you want to restore or inspect it:
-# https://github.com/BoyDeathMonsters/BoyDeathMonsters/tree/backup%2Ftoday-2026-08-15
+The workflow 'update_profile_art.yml' was removed from main per request. See backup branch if you need it:
+https://github.com/BoyDeathMonsters/BoyDeathMonsters/tree/backup%2Ftoday-2026-08-15

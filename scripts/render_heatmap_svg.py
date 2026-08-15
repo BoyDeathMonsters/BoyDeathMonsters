@@ -1,8 +1,4 @@
 # Removed: render_heatmap_svg.py
 
-This file was added/modified on 2026-08-15 and has been removed from main.
-
-If you need to recover the original version, it is available in the backup branch:
+This file was removed from main per request. See backup branch to recover the original version:
 https://github.com/BoyDeathMonsters/BoyDeathMonsters/tree/backup%2Ftoday-2026-08-15
-
-(Keeping this placeholder to avoid accidental re-adding without review.)
