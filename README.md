@@ -18,7 +18,7 @@
 
 ---
 
-## 🏙️ The city I built this year
+## The city I built this year
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution city"/>
@@ -28,7 +28,7 @@
 
 ---
 
-## 📡 Population
+## Population
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=BoyDeathMonsters&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=5eead4&icon_color=2dd4bf&text_color=c9d1d9&ring_color=14b8a6" alt="stats"/>
@@ -41,7 +41,7 @@
 
 ---
 
-## 🗼 Landmarks
+## Landmarks
 
 <p align="center">
   <a href="https://github.com/BoyDeathMonsters/firefighter-robot-lancelot">
@@ -54,7 +54,7 @@
 
 ---
 
-## 🛰️ Visit
+## Visit
 
 <p align="center">
   <a href="https://github.com/BoyDeathMonsters"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=5eead4" alt="GitHub"/></a>
