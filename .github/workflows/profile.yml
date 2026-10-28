@@ -1,0 +1,31 @@
+name: Build profile cards
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # chaque nuit
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/build_profile.py", ".github/workflows/profile.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Generate SVG cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/build_profile.py
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets
+          git commit -m "chore: rebuild profile cards" || echo "Nothing to commit"
+          git push
