@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0f3b37"/>
+    <stop offset=".45" stop-color="#0a2524"/>
+    <stop offset="1" stop-color="#0b1d2b"/>
+  </linearGradient>
+  <radialGradient id="glowA" cx=".18" cy="0" r=".55">
+    <stop offset="0" stop-color="#2fb7a2" stop-opacity=".75"/>
+    <stop offset="1" stop-color="#2fb7a2" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glowB" cx=".9" cy="1" r=".55">
+    <stop offset="0" stop-color="#5468c9" stop-opacity=".6"/>
+    <stop offset="1" stop-color="#5468c9" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glowC" cx=".55" cy=".35" r=".45">
+    <stop offset="0" stop-color="#1f8f80" stop-opacity=".35"/>
+    <stop offset="1" stop-color="#1f8f80" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#7ef0d8" stop-opacity=".9"/>
+    <stop offset=".5" stop-color="#2dd4bf" stop-opacity=".35"/>
+    <stop offset="1" stop-color="#7c8cf0" stop-opacity=".7"/>
+  </linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#052224" stop-opacity=".55"/>
+    <stop offset="1" stop-color="#061418" stop-opacity=".66"/>
+  </linearGradient>
+  
+</defs>
+<style>
+  text{font-family:'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif}
+  .mono{font-family:'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace}
+  
+</style>
+<rect x="1" y="1" width="898" height="278" rx="24" fill="url(#bg)"/>
+<rect x="1" y="1" width="898" height="278" rx="24" fill="url(#glowA)"/>
+<rect x="1" y="1" width="898" height="278" rx="24" fill="url(#glowB)"/>
+<rect x="1" y="1" width="898" height="278" rx="24" fill="url(#glowC)"/>
+<rect x="1" y="1" width="898" height="278" rx="24" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+<rect x="26" y="26" width="848" height="228" rx="18" fill="url(#panel)" stroke="#7ef0d8" stroke-opacity=".32"/>
+
+<g class="fade">
+  <text x="58" y="80" font-family="'Segoe UI Black', 'Arial Black', 'Segoe UI', Ubuntu, sans-serif" font-size="30" font-weight="900" fill="#e9fffa">Profile Signal</text>
+  <text x="60" y="100" font-size="13" font-weight="700" letter-spacing="1" fill="#7ef0d8">Live GitHub stats · rebuilt every night</text>
+</g>
+<g class="fade" style="animation-delay:0.1s">
+  <rect x="46.0" y="120" width="188.5" height="120" rx="16" fill="#051416" fill-opacity=".85" stroke="#7ef0d8" stroke-opacity=".35"/>
+  <text x="68.0" y="152" font-size="13" font-weight="800" letter-spacing="1" fill="#7ef0d8">Stars</text>
+  <text x="66.0" y="198" font-family="'Segoe UI Black', 'Arial Black', 'Segoe UI', Ubuntu, sans-serif" font-size="38" font-weight="900" fill="#5eead4">1</text>
+  <rect x="68.0" y="214" width="144.5" height="6" rx="3" fill="#1b3537"/>
+  <rect x="68.0" y="214" width="7.2" height="6" rx="3" fill="#5eead4"/>
+</g>
+<g class="fade" style="animation-delay:0.2s">
+  <rect x="252.5" y="120" width="188.5" height="120" rx="16" fill="#051416" fill-opacity=".85" stroke="#7ef0d8" stroke-opacity=".35"/>
+  <text x="274.5" y="152" font-size="13" font-weight="800" letter-spacing="1" fill="#7ef0d8">Contributions</text>
+  <text x="272.5" y="198" font-family="'Segoe UI Black', 'Arial Black', 'Segoe UI', Ubuntu, sans-serif" font-size="38" font-weight="900" fill="#a78bfa">109</text>
+  <rect x="274.5" y="214" width="144.5" height="6" rx="3" fill="#1b3537"/>
+  <rect x="274.5" y="214" width="31.5" height="6" rx="3" fill="#a78bfa"/>
+</g>
+<g class="fade" style="animation-delay:0.3s">
+  <rect x="459.0" y="120" width="188.5" height="120" rx="16" fill="#051416" fill-opacity=".85" stroke="#7ef0d8" stroke-opacity=".35"/>
+  <text x="481.0" y="152" font-size="13" font-weight="800" letter-spacing="1" fill="#7ef0d8">Repos</text>
+  <text x="479.0" y="198" font-family="'Segoe UI Black', 'Arial Black', 'Segoe UI', Ubuntu, sans-serif" font-size="38" font-weight="900" fill="#60a5fa">3</text>
+  <rect x="481.0" y="214" width="144.5" height="6" rx="3" fill="#1b3537"/>
+  <rect x="481.0" y="214" width="14.5" height="6" rx="3" fill="#60a5fa"/>
+</g>
+<g class="fade" style="animation-delay:0.4s">
+  <rect x="665.5" y="120" width="188.5" height="120" rx="16" fill="#051416" fill-opacity=".85" stroke="#7ef0d8" stroke-opacity=".35"/>
+  <text x="687.5" y="152" font-size="13" font-weight="800" letter-spacing="1" fill="#7ef0d8">Followers</text>
+  <text x="685.5" y="198" font-family="'Segoe UI Black', 'Arial Black', 'Segoe UI', Ubuntu, sans-serif" font-size="38" font-weight="900" fill="#22d3ee">0</text>
+  <rect x="687.5" y="214" width="144.5" height="6" rx="3" fill="#1b3537"/>
+  <rect x="687.5" y="214" width="7.2" height="6" rx="3" fill="#22d3ee"/>
+</g>
+</svg>
